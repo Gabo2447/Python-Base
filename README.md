@@ -1,2 +1,6 @@
-# Python-Base
-Este es un proyecto donde hay código que comparar, próximamente habrán preguntas para que tú lo resuelvas :]
+.: Introducción :.
+
+Este es un proyecto donde hay código que comparar de Python básico. Lo iré actualizando semanalmente.
+
+
+
